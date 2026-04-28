@@ -1,47 +1,40 @@
+#SyntaxWear
 
-# SyntaxWear
+O SyntaxWear é um site de e-commerce moderno e elegante para a venda online de tênis e calçados. Este projeto foi desenvolvido como uma demonstração de habilidades front-end, focando na criação de uma interface de usuário atraente e responsiva utilizando HTML e CSS.
 
-SyntaxWear is a modern and stylish e-commerce website for selling sneakers and shoes online. This project was developed as a demonstration of front-end skills, focusing on creating an attractive and responsive user interface using HTML and CSS.
+Funcionalidades Design Responsivo: O layout se adapta a diferentes tamanhos de tela, proporcionando uma boa experiência em desktops, tablets e dispositivos móveis.
 
-## Features
+UI/UX Moderno: Design limpo e moderno, com foco na usabilidade e experiência do usuário.
 
-- **Responsive Design:** The layout adapts to different screen sizes, providing a good experience on desktops, tablets, and mobile devices.
-- **Modern UI/UX:** Clean and modern design, with a focus on usability and user experience.
-- **CSS Components:** The CSS is organized into components, making it easy to maintain and reuse styles.
-- **Product Showcase:** The home page features a hero section, product categories, and a product grid to showcase the products.
-- **Newsletter Subscription:** A newsletter subscription form in the footer.
-- **Social Media Links:** Links to social media profiles in the footer.
+Componentes CSS: O CSS está organizado em componentes, facilitando a manutenção e a reutilização de estilos.
 
-## Technologies Used
+Vitrine de Produtos: A página inicial apresenta uma seção hero, categorias de produtos e uma grade de produtos para exibi-los.
 
-- **HTML5:** For the structure and content of the web pages.
-- **CSS3:** For styling the website, using modern features like Flexbox and Grid Layout.
-- **Google Fonts:** For custom fonts.
-- **VS Code:** As the code editor.
-- **Git & GitHub:** For version control.
+Inscrição na Newsletter: Um formulário de inscrição de newsletter localizado no rodapé.
 
-## Folder Structure
+Links de Redes Sociais: Links para perfis de redes sociais no rodapé.
 
-The project is organized into the following folders:
+Tecnologias Utilizadas HTML5: Para a estrutura e conteúdo das páginas web.
 
-- **/css:** Contains the CSS files, organized into base styles, components, and variables.
-  - **/components:** Contains the CSS for each component of the website (header, footer, etc.).
-- **/images:** Contains all the images used in the project, such as logos, banners, and product images.
-- **/js:** Contains the JavaScript files (currently empty).
-- **index.html:** The main HTML file of the website.
-- **README.md:** This file.
+CSS3: Para a estilização do site, utilizando recursos modernos como Flexbox e Grid Layout.
 
-## How to Run the Project
+Google Fonts: Para fontes personalizadas.
 
-To run this project locally, simply open the `index.html` file in your web browser.
+VS Code: Como editor de código.
 
-```bash
-# Clone the repository
-git clone https://github.com/devemdobro/ecommerce-syntaxwear.git
+Git & GitHub: Para controle de versão.
 
-# Navigate to the project directory
-cd ecommerce-syntaxwear
+Estrutura de Pastas O projeto está organizado nas seguintes pastas:
 
-# Open index.html in your browser
-```
+/css: Contém os arquivos CSS, organizados em estilos base, componentes e variáveis.
+
+/components: Contém o CSS para cada componente do site (cabeçalho, rodapé, etc.).
+
+/images: Contém todas as imagens usadas no projeto, como logotipos, banners e imagens de produtos.
+
+script.js: Contém o arquivo ue se refere à linguagem de programação JavaScript. 
+
+index.html: O arquivo HTML principal do site.
+
+README.md: Este arquivo.
 
